@@ -9,7 +9,6 @@
 
 ## Screenshots
 ![](https://github.com/codehafeez/firebase-web_social-login_facebook-google/blob/main/Output.png)
-![](https://github.com/codehafeez/firebase-web_social-login_facebook-google/blob/main/Google Login Success Output.png)
 
 
 ## 🔗 www.codehafeez.com
