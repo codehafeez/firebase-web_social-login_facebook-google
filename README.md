@@ -7,4 +7,9 @@
 [![whatsapp](https://img.shields.io/badge/whatsapp-GREEN?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923123349398)
 
 
+## Screenshots
+![](https://github.com/codehafeez/firebase-web_social-login_facebook-google/blob/main/Output.png)
+![]https://github.com/codehafeez/firebase-web_social-login_facebook-google/blob/main/Google%20Login%20Success%20Output.png)
+
+
 ## 🔗 www.codehafeez.com
